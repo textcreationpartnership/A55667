@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Predictions of the sudden and total destruction of the Turkish empire, and religion of Mahomet according to the opinions of the Lord Tycho Brahe of Denmark, and many others of the best astronomers of this later age; collected and humbly dedicated to all Christendom by a lover of Christianity.</title>
+            <author>Lover of Christianity.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55667</idno>
+            <idno type="STC">Wing P3210</idno>
+            <idno type="STC">ESTC R221824</idno>
+            <idno type="EEBO-CITATION">99833077</idno>
+            <idno type="PROQUEST">99833077</idno>
+            <idno type="VID">37552</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37552)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2053:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Predictions of the sudden and total destruction of the Turkish empire, and religion of Mahomet according to the opinions of the Lord Tycho Brahe of Denmark, and many others of the best astronomers of this later age; collected and humbly dedicated to all Christendom by a lover of Christianity.</title>
+                  <author>Lover of Christianity.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed; and sold by Walter Davis in Amen-Corner,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Austro-Turkish War, 1683-1699 --  Early works to 1800.</term>
+               <term>Turkey --  History --  Mohammed IV, 1648-1687 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37552:1" rendition="simple:additions"/>
+            <head>PREDICTIONS Of the Sudden and Total Deſtruction of The Turkiſh Empire, AND Religion of Mahomet: <hi>According to the Opinions of the</hi> Lord Tycho Brahe <hi>of</hi> Den<g ref="char:EOLhyphen"/>mark, <hi>and many Others of the Beſt Aſtronomers of this Later Age; Collected and Humbly Dedicated to all</hi> Chriſtendom <hi>by a Lover of Chriſtianity.</hi>
+            </head>
+            <p>THE preſent War of the <hi>Turks</hi> upon the Chriſtian Empire of <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> and indeed upon all the Eaſtern part of <hi>Chriſtendom,</hi> (<hi>Ruſſia</hi> only excepted) Begun without any pretence of a juſt Cauſe, or other Provocation, than meer Conqueſt, ſufficiently de<g ref="char:EOLhyphen"/>monſtrates that the Ambition of that Empire (if it were poſſible) aims at nothing elſe then to bring the whole Earth under its Slavery, Bondage and Vaſſalage, which ſhe might ſoon Acquire, could ſhe make her ſelf Myſtriſs of the Remaining part of <hi>Europe,</hi> of which She hath already Gained ſo great a Share, as may be Compared not Inferiout to either of the Mighty Empires of <hi>Germany</hi> or <hi>France,</hi> and Naturally much more Pleaſant and Fertile then Either. The Sweets as ſhe Gathers thence, tempt Her upon the Reduction of the Whole; And the frequent Diſtractions and Warrs which Happen amongſt Chriſtian Princes and States, do point out to her own Greatneſs, an Oppor<g ref="char:EOLhyphen"/>tunity of being much Greater, by the weak and diſtracted Condition <hi>Chriſten<g ref="char:EOLhyphen"/>dom</hi> is almoſt continually in, and conſequently not able to withſtand any of Her (though never ſo unjuſt) Demands; Laſt Years Attempt upon the Imperial Chriſtian City of <hi>Vienna,</hi> may ſufficiently convince any Man, that the Attaque of the <hi>Turks</hi> upon that place, (if God Almighty had not wonderfully preſerved and defended it) would have brought inevitable deſtruction and deſolation upon the whole Empire of <hi>Germany.</hi> And it is hard to judge in Humane Pru<g ref="char:EOLhyphen"/>dence how they could poſſibly have bin forced to quit ſuch a Conqueſt, where the Treaſure they would have made Themſelves Maſters of in the Enterprize, might ſufficiently, without any domeſtick Tax, enabled them to carry on the War againſt, and (totally to ſubdue) the greateſt Part of <hi>Chriſtendom.</hi>
+            </p>
+            <p>But Almighty God, which putteth Bounds to the Sea, and ſaith, <hi>Hitherto ſhal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou Go, and no further;</hi> Alſo Boundeth and Changeth Empires and Kingdoms, and ſetteth up Emperors and Kings, as ſeemeth good to Himſelf, of which the Hiſtories of all Paſt Ages do furniſh us with plenty of Inſtances.</p>
+            <p>The Jewes were always of Opinion, <hi>That every Perſon and Place hath a certain Guardian-Angel ſet over it.</hi> And many Doctors of the Chriſtian-Church ſeem to
+<pb n="2" facs="tcp:37552:2"/>Agree with them in that Particular, upon the Warrant they have from the Holy Prophet, <hi>Dan.</hi> 10.11. Where mention is made of an Angel-Governour over <hi>Perſia,</hi> and over <hi>Greece;</hi> Rulers and Potentates, or, as our <hi>Engliſh</hi> Tran<g ref="char:EOLhyphen"/>ſlation hath it, Principalities and Powers; And the Learned in all Ages have Obſerved, <hi>That God hash Set Intervals and Periods of Times to all Empires and Go<g ref="char:EOLhyphen"/>vernments in the World;</hi> Amongſt which Periods the 500. and 700. are Ac<g ref="char:EOLhyphen"/>counted the moſt Fatal, as you may ſee in <hi>Bodin. Lib.</hi> 4. <hi>cap.</hi> 2 The Na<g ref="char:EOLhyphen"/>tural Reaſons of which is, for that in the ſaid Spaces of Time there Elapſeth ſo many Generations of Men, which abateth off, and more and more declineth from the Simplicity, Strength and Fortitude, whereby Kingdoms are Acquired Preſerved and Propagated.</p>
+            <p>It is alſo Obſerved, That no extraordinary Change has ever hapned, but, has been Attended with, or fore-boded by ſtrange <hi>Comets</hi> or Apparitions in the Heavens, as Gods Monitors pointing to us the Judgements threatned.</p>
+            <p>A Comet Appeared in the Year 603. about a Year before the pretended Prophet <hi>Mahomets</hi> Birth; And another Comet Appeared in the Shape of a Fiery Sword at Noon day, and continued the ſpace of one whole Month at his Death, Rendring it no leſs prodigious then the Courſe of his Life, or the Succeſs that has ſince Attended his <hi>Religion</hi> and <hi>Empire</hi> to this very day, of which ſee <hi>Joſ phus Bell. Jud lib,</hi> 7. <hi>cap.</hi> 12.</p>
+            <p>That God hath Appointed fatal Bounds and Limits of Time to Empires (none will deny) ſo hath he the like Bounds and Limits to other particular Places; And when any Change of an Empire is imminent, he commonly Raiſeth up ſome Great <hi>Heroes,</hi> whom he uſeth as Organs to Puniſh or Amend Them, yet firſt revealeth ſuch future Changes, by certain Signes and Prodigies, as <hi>St. Auguſtin lib. de <g ref="char:V">Ʋ</g>rb. excid. Tom.</hi> 9. Speaks of a Great Comet that Ap<g ref="char:EOLhyphen"/>peared about the Year 396 over <hi>Conſtantinople,</hi> according to the Revelation firſt made thereof to a Souldier, and by him to a Biſhop; who thereupon ex<g ref="char:EOLhyphen"/>horted the People to Repentance, <hi>&amp;c.</hi> He hath theſe very words, <hi>Volens ſiqui<g ref="char:EOLhyphen"/>dens Deus terrere Civitatem. &amp; terrendo emendare, terrendo convertere, terrendo mundare, terrendo mutare ſervo ſuo fideli viro ut dicitur Militaris, &amp;c.</hi>— God being pleaſed to terrifie the City, by terrifying to convert it, by terrifying to cleanſe it, by terrifying to change it, he Revealed (as is reported) to a Soldier his faithful Servant. And a little further, <hi>Noct is initio tenebrantes, &amp;c.</hi> In the Beginning of the Night, whilſt Darkneſs Covered the Earth, there Appeared a Fiery cloud in the Eaſt, (at firſt but a little one); Afterwards by degrees, as it Approached the City, it ſo increaſed, till being mighty big it Hovered ter<g ref="char:EOLhyphen"/>ribly over all the City, there was ſeen a horrible Flame which deſcended from it, neither was there a Sulphurous Smell wanting, all the People fled to Church, the Place contained not the Multitude, every O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e wreſted Baptiſm from whom he could the Sacrament was Expoſed not only in the Church, but alſo through the Houſes, Lanes and Streets, to Avoid the preſent as well as future wrath of God. Thus far <hi>St. Auguſtine.</hi> What ſtrange Revolutions have ſince befel that City, all <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hriſtendom</hi> and the greateſt part of the Intelligible World can ſuf<g ref="char:EOLhyphen"/>ficiently Witneſs. And to the purpoſe intended by this Paper, which is to ſhew by the many ſtrange Comets which have Appeared of late Years, not only in Sight of the ſame <hi>Conſtantinople,</hi> but even of all <hi>Chriſtendom,</hi> as Fore-runners of the Great Alterations and Changes which ſhall Happen and particularly on the <hi>Turkiſh</hi> Empire, whoſe Grand fatal Year <hi>is Proclaimed by</hi> the Heavens to be ſo
+<pb n="3" facs="tcp:37552:2" rendition="simple:additions"/>near at Hand, as has been long ſince Obſerved by Learned Men, by the Cauſe of the Suns Eccentricity, deſcribed of <hi>Copernicus,</hi> (<hi>cap.</hi> 20. <hi>lib.</hi> 3. <hi>Revol.</hi>) By a Motion of a little Circle, having the Eccentrick of its Center in its Circum<g ref="char:EOLhyphen"/>ference; <hi>Georgius Johannis Rhetius</hi> call'd this Circle, <hi>The Wheel of Fortune; By whoſe Revolutions,</hi> ſaith he, <hi>the Monarchies of the World received their Commence<g ref="char:EOLhyphen"/>ments and Changes, for like as the</hi> Roman <hi>Empire obtained its higheſt dignity when the Eccentricity was greateſt, ſo the ſame Decreaſed is very much Empaired, and al<g ref="char:EOLhyphen"/>moſt at the brink of Deſtruction;</hi> But the <hi>Turkiſh Empire</hi> began in the firſt Qua<g ref="char:EOLhyphen"/>drant with the Law of <hi>Mahomet,</hi> and hath been moſt ſwiftly Augmented pro<g ref="char:EOLhyphen"/>portionably, according to the Motion thereof; being at this day wherein the Eccentricity is at the leaſt in a flouriſhing eſtate, but ſhall henceforward be di<g ref="char:EOLhyphen"/>miniſhed until the other Quadrant, and alike ſwiftly (God ſo pleaſing) Haſten to deſtruction:</p>
+            <p>According to <hi>Tycho</hi> and Others of the Beſt Aſtronomers, the Eccentricity is already notably encreaſed, <hi>(viz.)</hi> unto <hi>Part</hi> 2.9′. or thereabouts. <hi>Lauſburgius</hi> makes it <hi>Part</hi> 2 6′ 21″. <hi>Inſomuch</hi> (ſayes the ſame Author) <hi>That if the Chri<g ref="char:EOLhyphen"/>ſtians would henceforth lay aſide their Ambition and Avarice, and Live at Peace a<g ref="char:EOLhyphen"/>mong themſelves, the God of Nature Preſents them with an Age, wherein they may to<g ref="char:EOLhyphen"/>tally Overthrow and lay Waſte the Empire of the</hi> Turks, <hi>and put a ſpeedy Period to the Law of their Prophet</hi> Mahomet.</p>
+            <p>
+               <hi>Cardan. Seg.</hi> 1. <hi>Aph.</hi> 37. <hi>Permutationes Abſidum Regna, &amp; Regiones, &amp; Religi<g ref="char:EOLhyphen"/>ones mutant.</hi> Changes of the <hi>Abſids</hi> Alter Kingdoms, Regions and Religions.</p>
+            <p>Whence a Learned Author obſerves, That from the Change of <hi>Saturns Abſis</hi> into <hi>Cancer Mahomet</hi> had his Growth, and by the Change thereof into <hi>Capricorn</hi> (the Sign oppoſite thereunto) receives he Detriment, and at length a final De<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>As Mr. <hi>Aſhmole</hi> in his accurate Tranſlation of <hi>Spinoeus,</hi> tells us, <hi>That</hi> Mahomets <hi>Deſtruction initiated Anno</hi> 1630. And this he deduces from the Change of <hi>Sa<g ref="char:EOLhyphen"/>turns Abſis,</hi> out of <hi>Sagitary</hi> into <hi>Capricorn</hi> (according to the <hi>Prutenick Tables</hi>) But by the <hi>Pololiaque Tables</hi> (the beſt extant). It enters not <hi>Capricorn</hi> till the beginning of the Year 1728. After which Time the Heavens have decreed that, and ſeveral other Cauſes which will Occur to extirpate <hi>Mahomet</hi> and his Law, which God in his infinite Mercy, (to Bleeding <hi>Chriſtendom</hi>) in his due time bring to paſs.</p>
+            <p>The Wonderful Providence of God can never be ſufficiently admired in all his Wayes, and particularly to permit the Growth of the inſulting <hi>Turks,</hi> (as a juſt puniſhment to his Choſen People), ſo ſwell to ſuch a Magnitude, (rather than grow) too big a Body for any Legs poſſibly to be found ſufficient to ſup<g ref="char:EOLhyphen"/>port its Weight, that of its own unweldineſs it may, like a diſtempered Body, Pine, Waſte, Conſume, Decay and Moulter to as meer a Nothing, as it was be<g ref="char:EOLhyphen"/>fore the Birth of their Grand Impoſtor.</p>
+            <p>And whereas ſuch a Mighty <hi>Empire</hi> that hath ſhaken the Remoteſt Regions of the Earth, cannot reaſonably be ſuppoſed to be diſſolved into Atoms, in a Moments Space of Time; And the Fatal Year of that Monarchy Appearing by the ſaid Learned Authority to be <hi>Anno</hi> 1728. Which is but 44 Years from this preſent time to come. The preſent happy Union that now is Eſtabliſhed between His Imperial Majeſtie of <hi>Germany,</hi> the Crown of <hi>Poland,</hi> and Senate of <hi>Venice,</hi> together with the Inclinations the <hi>Sophy</hi> of <hi>Perſia</hi> and the <hi>Czaars</hi> of <hi>Moſ<g ref="char:EOLhyphen"/>covy,</hi> who ſeem to declare to come into the ſaid Union. Beſides, the preſent
+<pb n="4" facs="tcp:37552:3"/>Conſternation the <hi>Turkiſh Empire</hi> is in, what a Feaver and Ague is Fixed in the Blood, Body and Heart of that <hi>Empire,</hi> Occaſioned upon the Bleſſed Succeſs of the Chriſtian Armes, that an Inſulting Empire, who but a few Months paſt Threatned Deſtruction to the Remoteſt Parts of the Earth, now feels a Mortal Diſtemper in its own <hi>Bowels,</hi> (by a brave Diverſion of the Chriſtian <hi>Ceſſacks</hi> and <hi>Morelaques</hi>) and is Reduced to Conſult of means to defend it ſelf againſt its weakeſt Chriſtian Neighbors, which being but indifferently conſidered, who can doubt but this preſent time, is an <hi>AE a</hi> or a <hi>Praeludium</hi> to the Fatal Year <hi>Anno</hi> 1728. And that the preſent Illuſtrious and Renowned King of <hi>Poland,</hi> with the many Princes of the Holy Empire, and Others joyned with him, are the <hi>Heroes</hi> that God has Raiſed to Subdue, Alter and Amend the Eaſtern Empire of <hi>Europe,</hi> which ſo long has Groaned under the cruel Bonds <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Turkiſh</hi> Slavery, Vaſſalage and Subjection; What a bleſſed ſtate would <hi>Chriſtendom</hi> be Reduced to in an inſtant, if it would lay aſide Domeſtick Warrs, Quarrels and Pretenſions of Strife; What an Opportunity preſents it ſelf (of Immortal Honour and Re<g ref="char:EOLhyphen"/>nown) to ſuch as have Youth, Strength, Fortune and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourage, to Liſt them<g ref="char:EOLhyphen"/>ſelves in the Noble Roll of ſuch brave <hi>Heroes</hi> in the beſt of Cauſes that ever Sword was drawn in, and in which the Valiant and Heroick Lords, <hi>Lanſdown</hi> and <hi>Taſſ</hi> and many other <hi>Britiſh</hi> Subjects, have made ſo brave an Eſſay. What a happy Day would it be, that there was no other Emulation among Chriſtians than a Vying who ſhould do the braveſt Act againſt their Common Enemy? If the Heavens have decreed it, it is not the Taking of a <hi>Luxemberg,</hi> or the Aſ<g ref="char:EOLhyphen"/>ſaulting of a <hi>Genoa,</hi> or the Sending of a Fleet into the <hi>Baltick,</hi> can divert the unalterable Fate that Attends a ſinking Empire, upon the Period and Brink of utter Deſtruction. The 500 and 700 Years fatal Periods of Time, mentioned before, may be ſufficient to Caution ſuch as Confederate with, or otherwiſe Aſ<g ref="char:EOLhyphen"/>ſiſt an Empire under ſuch a Deſtiny, that ſuch do but <hi>Fight</hi> againſt <hi>Heaven;</hi> And that you may plainly underſtand the whole Courſe of the Heavens, are by D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vine Providence at this Juncture on the Chriſtian ſide, whoſe Celeſtial In<g ref="char:EOLhyphen"/>fluences joyn with and ſtrengthen the Events of the ſaid fatal Periods; To diſcover which I Refer you to the General Hiſtory of the <hi>Turkiſh Empire,</hi> and you will find their Monarchy was firſt Setled and Fou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded in <hi>Aſia,</hi> under the De<g ref="char:EOLhyphen"/>nomination of a Kingdom, in the Year of Our Lord Chriſt 1030 by <hi>Tangro<g ref="char:EOLhyphen"/>lipyx,</hi> (and in the Reign of <hi>Conſtantius Monomachus</hi> the Chriſtian Emperour) of which a Man may very reaſonably ſuppoſe, that the ſame <hi>Tangrolipyx,</hi> or his Predeceſſors, were ſome Years in preparing a Foundation, on which ſo great a Structure as an Imperial Monarchy was to be Raiſed on; And if you Add the 44 Years yet to come, when the Change of <hi>Saturn</hi>'s <hi>Abſis</hi> out of <hi>Sagitary</hi> into <hi>Capricorn,</hi> will Happen, as I have ſaid with 654 (at this preſent,) ſo many Years ſin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Tangrolipix</hi> to 1030 in which Year <hi>Tangrolipix</hi> firſt ſetled his Em<g ref="char:EOLhyphen"/>pire, it makes up Compleat 1728. and wants only two Years of the Grand fatal Period mentioned, by which it may be Obſerved, That there is not want<g ref="char:EOLhyphen"/>ing a <hi>double Deſtiny</hi> to ſecare and ſtrengthen all Accidents, that Naturally and properly Occurr to the laying Waſte that <hi>Tyrannical</hi> Government, which for ſo many years has <hi>Oppreſſed</hi> ſo great a Part of the Earth; What ſurer and more laſting Monument can a Man Raiſe to himſelf, than to be an Inſtru<g ref="char:EOLhyphen"/>ment in ſo Glorious a Cauſe, whoſe daily Succeſs will be continually Celebrated with <hi>Te Deum</hi>'s through the Univerſe, and all Ages to come for ever rejoice of their ſo mighty Deliverance; To effect which, let all good Men continually pray for the uniting and ſtrengthning of the Chriſtian Arms, which whenever it ſhall pleaſe God to bring to paſs, will certainly be the Time that will Confirm theſe Predictions.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed; And Sold by <hi>Walter Davis</hi> in <hi>Amen-Corner.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
